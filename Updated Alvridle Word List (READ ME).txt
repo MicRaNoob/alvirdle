@@ -1,0 +1,568 @@
+
+This Notepad was created to make Alvirdle more "Alvirne Friendly" by keeping track of what teachers names were and not added.
+
+To make things easier for who is ever maintaining this code
+The only files I've touched with this code is the word list files 3 - 7
+
+Key
+
+__________________________________________________________________________________________________________________________
+                                                                                                                          |
+Word Added - (Word) - List (?) - (Difficulty) | This means that a word was added and shows what word, list. and difficulty|
+Word Already Added! | This means the word was added prior                                                                 |
+NO | This means the word was reject due to it being to big or small to fit into Alvirdle                                  |
+__________________________________________________________________________________________________________________________|
+
+Kaitlyn Abbott-Rose Word Added - Rose - List 4 - Intermediate/Beginner
+Teacher
+
+David Anger - Word Added - Anger - List 5 - Intermediate/Beginner
+Teacher  
+
+Susan Atwood - Word Added - Atwood - List 6  Advanced/Intermediate
+
+Paraprofessional
+
+Michael Baptista - NO
+
+Custodian
+
+Steven Beals - Word Already Added!
+
+Principal
+
+Jacqueline Beaudet - Word Added - Beaudet - List 7 - Advanced
+
+Teacher
+
+Jenny Beaudry - Word Added - Beaudry - List 7 - Advanced
+
+Teacher
+
+Corie Bliss - Word Added - Bliss - List 5 - Intermediate/Advanced
+
+Teacher
+
+David Bressler - NO
+
+Teacher
+
+Ernest Brown - Word Already Added!
+
+Teacher
+
+Sara Brown - Word Already Added!
+
+Teacher
+
+Eliana Buckley - Word Already Added!
+
+Teacher
+
+Jeffrey Bunkartas - NO
+
+Teacher
+
+Susan Bureau - Word Already Added!
+
+Assistant Principal
+
+
+Kim Cassetta - NO
+
+Paraprofessional
+
+Tina Chandler - NO
+
+Food Service
+
+Abigail Charlonne - NO
+
+Teacher
+
+Christian Cheetham - NO
+
+Teacher
+
+Ryder Close - Word Added - Close - List 5 - Intermediate/Beginner
+
+Teacher
+
+Deborah Cole - Word Already Added!
+
+Librarian
+
+Thomas Cole - Word Already Added!
+
+Teacher
+
+Sarah Compagna - NO
+
+Teacher
+
+Meghan Crockett - NO
+
+Teacher
+
+Collin Currier - Word Already Added!
+
+Teacher
+
+Thomas Daigle - Word Already Added!
+
+Teacher
+
+Cameron Debrusk - Word Added - Debrusk - List 7 - Advanced
+
+Teacher
+
+Phillip Demers - Word Added- Demers - List 6 - Intermediate
+
+Teacher
+
+Rebecca Demers - Word Already Added!
+
+Teacher
+
+Lauren Denis - Word Already Added!
+
+Teacher
+
+Nina DiGiantommaso - NO
+
+Food Service
+
+Aida Dimalanta - NO
+
+Paraprofessional
+
+adimalanta@sau81.org - Word Added- Doane - List 5 - Advanced
+Ann Doane
+
+Secretary
+
+Adam Dufault - Word Added - Dufualt - List 7 - Advanced
+
+Teacher
+
+adufault@sau81.org - Word Added - Duggan - List 7 - Advanced
+Anna Duggan
+
+Food Service
+
+Emily Eldridge - NO
+
+Teacher
+
+Traci Flaherty - NO
+
+Human Services Teacher
+
+Kelly Fontaine - NO
+
+Secretary
+
+Kenneth Fox - Word Added - Fox - List 3 - fullList = advanced
+
+Teacher
+
+Paul Frasca - Word Added - Frasca - List 6 - Advanced
+
+Custodian
+
+Eric Frauwirth - NO
+
+Director
+
+Michael Gallagan - NO
+
+Teacher
+
+Seth Garon - Word Already Added!
+
+Teacher
+
+Ruth Glazier - Word Added - Glazier - List 7 - Advanced
+
+Teacher
+
+Chevon Gora - Word Added - Gora - List 4 - fullList = advanced
+
+Paraprofessional
+
+Louise Goulet - Word Added - Goulet - List 6 - fullList = advanced
+
+Assistant Principal
+
+Melissa Griffin - Word Added - Griffin - List 7 - fullList = advanced
+
+Teacher
+
+Jodi Hallas - Word Already Added!
+
+Assistant Principal
+
+Dawn Hanik - Word Already Added!
+
+Teacher
+
+Thomas Hanson - Word Already Added!
+
+Teacher
+
+Sarah Hilton - Word Added - Hilton - List 7 - Advanced
+
+School Counselor
+
+Susan Jones - Word Added - Jones - List 5 - Intermediate
+
+Paraprofessional
+
+Barbara Kelvington - NO
+
+Food Service
+
+Hayley King - Word Already Added!
+
+Custodian
+
+Jennifer LaFrance - NO
+
+Teacher
+
+Katelyn Larochelle - NO
+
+Teacher
+
+Alexander Larson - Word Added - Larson - List 6 - Advanced
+
+Teacher
+
+Kathleen Leary - Word Added - Leary - List 5 - Advanced
+
+Paraprofessional
+
+Ryan Leary - Word Already Added!
+
+Custodian
+
+Brian Lebel - Word Added - Lebel - List 5 - Advanced
+
+Teacher
+
+Rebecca Lecklider - NO
+
+Teacher
+
+Gail Low - Word Added - Low - List 3 - Intermediate
+
+Secretary
+
+Lillian Mango - Word Added - Mango - List 5 - FullList = Advanced
+
+Teacher
+
+Jessica Marcure - Word Added - Marcure - List 6 - FullList = Advanced
+
+Teacher
+
+Marianne Marshall - NO
+
+Paraprofessional
+
+Jessica Martin - Word Added - Martin - List 6 - FullList = Advanced
+
+Paraprofessional
+
+Tyler Mcalevy - Word Added - Mcalevy - List 7 - FullList = Advanced
+
+Teacher
+
+Shannon McCarthy - NO
+
+Teacher
+
+Dianne McDonald - NO
+
+Secretary
+
+Andrea Mcevoy - Word Added - Mcevoy - List 6 - FullList = Advanced
+
+Teacher
+
+Karen Medeiros - NO
+
+Teacher
+
+Jacqueline Michaud - Word Added - Michaud - List 7 - FullList = Advanced
+
+Teacher
+
+Judith Morales - Word Added - Morales - List 7 - FullList = Advanced
+
+Teacher
+
+Donna Morin - Word Added - Morin - List 5  - FullList = Advanced
+
+Teacher
+
+James Murphy - Word Added - Morin - List 6  - FullList = Advanced
+
+Custodian
+
+Kathleen Murphy - Word Already Added!
+
+Teacher
+
+Emery Nadeau - Word Added - Nadeau - List 7 - FullList = Advanced
+
+Farm Manager
+
+Sarah Nassif - Word Already Added!
+
+Teacher
+
+Julie Nelson - Word Added - Nelson - List 6 - Intermediate
+
+Teacher
+
+Caryn Noonan - Word Added - Nelson - List 6 - Advanced
+
+Secretary
+
+William O'Neil - NO
+
+Custodian
+
+Melanie O'Toole - NO
+
+Teacher
+
+Maria Oakley - Word Already Added!
+
+Teacher
+
+Douglas Peckham - Word Already Added!
+
+Teacher
+
+Jeffrey Peterson - NO
+
+Teacher
+
+Merrill Pierce - Word Added - Pierce - List 6- Advanced
+
+Teacher
+
+Ann Plamondon - NO
+
+Paraprofessional
+
+Melissa Prunier
+
+Teacher
+
+mprunier@sau81.org
+Patricia Quarles
+
+Teacher
+
+pquarles@sau81.org
+Leslie Reven
+
+Secretary
+
+lreven@sau81.org
+Andrew Rush
+
+Teacher
+
+arush@sau81.org
+Scott Rush
+
+Teacher
+
+srush@sau81.org
+Nicole Savage
+
+Food Service
+
+nsavage@sau81.org
+Suzanne Sawyer
+
+Teacher
+
+ssawyer@sau81.org
+Jeanne Schratwieser
+
+Teacher
+
+jschratwieser@sau81.org
+Michael Sedlisky
+
+Teacher
+
+msedlisky@sau81.org
+Charlene Sensing
+
+Paraprofessional
+
+csensing@sau81.org
+Kathryn Shangraw
+
+Teacher
+
+kshangraw@sau81.org
+Kylee Smart
+
+Paraprofessional
+
+ksmart@sau81.org
+Matthew Somers
+
+Teacher
+
+msomers@sau81.org
+Svetlana Stewart
+
+Teacher
+
+sstewart@sau81.org
+Donna Stitsel
+
+Paraprofessional
+
+dstitsel@sau81.org
+Lori Stolos
+
+Secretary
+
+lstolos@sau81.org
+Colin Stone
+
+Teacher
+
+cstone@sau81.org
+Brenna Sullivan
+
+Teacher
+
+bcsullivan@sau81.org
+Barbra Sutton
+
+Food Service
+
+bsutton@sau81.org
+Catherine Sweeney
+
+Paraprofessional
+
+csweeney@sau81.org
+Danielle Swinimer
+
+Food Service
+
+dswinimer@sau81.org
+Brian Taylor
+
+Teacher
+
+btaylor@sau81.org
+Jason Tesini
+
+Assistant Principal
+
+jtesini@sau81.org
+Ann-Lee Thibeault
+
+Teacher
+
+athibeault@sau81.org
+Michelle Tieman
+
+Teacher
+
+mtieman@sau81.org
+Claudia Torres
+
+Teacher
+
+ctorres@sau81.org
+Travis Tuck
+
+Teacher
+
+ttuck@sau81.org
+Danielle Vallee
+
+Teacher
+
+dvallee@sau81.org
+Aiden Van Batenburg
+
+Teacher
+
+avanbatenburg@sau81.org
+Brett Vance
+
+Teacher
+
+bvance@sau81.org
+Sharon Wagner
+
+Animal Care Teacher
+
+shwagner@sau81.org
+Lynn Waisanen-Morin
+
+Teacher
+
+lwaisanen-morin@sau81.org
+Alyssa Walker
+
+Teacher
+
+awalker@sau81.org
+Vickie Ware
+
+Teacher
+
+vware@sau81.org
+Jessica Wentworth
+
+Teacher
+
+jwentworth@sau81.org
+Alexander Wetmore
+
+Teacher
+
+awetmore@sau81.org
+James Wilbur
+
+Custodian
+
+jwilbur2@sau81.org
+Tina-Lyn Wilbur
+
+Custodian
+
+twilbur@sau81.org
+David Wilder
+
+Teacher
+
+dwilder@sau81.org
+Kaitlyn Wilson
+
+Teacher
+
+kwilson@sau81.org
+Joyce Wise
+
+Assistant Principal
+
+jwise@sau81.org
+Caterina Yetto
+
+Teacher
