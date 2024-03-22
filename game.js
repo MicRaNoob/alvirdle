@@ -12,11 +12,24 @@ let beginner;let intermediate;let advanced;let fullList;let currentRow = 0;let n
 
 const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0);
 
-let container = document.createElement('div');
-container.id = 'container';
-document.body.append(container);
 
-startMenu();
+let introgif = document.createElement('img');
+	introgif.id = 'introgif';
+	introgif.className = 'modalSocialIcon';
+	introgif.src = './assets/img/intro/video.gif';
+	document.body.append(introgif);
+	var yourImg = document.getElementById('introgif');
+		if(yourImg && yourImg.style) {
+    		yourImg.style.height = '760px';
+    		yourImg.style.width = '1430px';
+		}
+	introgif.addEventListener("click", function(){
+		let container = document.createElement('div');
+		container.id = 'container';
+		document.body.append(container);
+		startMenu();
+		document.getElementById('introgif').remove();
+	});
 
 function showScores(modal, type, diff){
 	let msBlock = document.createElement('div');
@@ -364,7 +377,7 @@ function startMenu(){
 		let j = i;
 		let menuBtn = document.createElement('button');
 		menuBtn.className = 'menuBtn';
-		menuBtn.innerText = (i == 0)? maxBlock + ' Letters' : ((i == 1)? level : ((i == 2)? difficulty : ((i == 3)? 'High Scores' : ((i == 4)? 'Help' : 'Start Game'))));
+		menuBtn.innerText = (i == 0)? maxBlock + ' letters' : ((i == 1)? level : ((i == 2)? difficulty : ((i == 3)? 'high scores' : ((i == 4)? 'help' : 'start game'))));
 		menuBtn.j = i;
 
 		menuBtn.addEventListener("click", menuClick);
